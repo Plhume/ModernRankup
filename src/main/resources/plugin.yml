@@ -1,0 +1,5 @@
+name: ModernRankup
+version: '${project.version}'
+main: fr.plhume.modernrankup.ModernRankup
+api-version: 1.19
+authors: [ Plhume ]
